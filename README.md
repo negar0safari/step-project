@@ -13,6 +13,6 @@ Lightweight vanilla JavaScript implementation
 
 Tech Stack: HTML, CSS, JavaScript
 
-## Demo Screenshots
+## image
 <img width="1361" height="594" alt="Screenshot_8" src="https://github.com/user-attachments/assets/636a71ca-c2ee-42e0-aa96-7a9398e2b264" />
 
